@@ -1,5 +1,5 @@
 import React from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button.jsx";
 import Card from "../ui/Card";
 import { statusVariants} from "./data";
 import { Pencil, Trash2 } from "lucide-react";

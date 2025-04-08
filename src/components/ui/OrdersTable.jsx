@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button.jsx";
 import Card from "../ui/Card";
 import axios from "axios";
 import { mockProducts } from "./data";
